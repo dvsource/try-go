@@ -6,7 +6,12 @@ https://golang.org/doc/tutorial/getting-started
 
 ```markdown
 # TODO
-- [ ] whole lot of them 
+- [ ] Working with Modules
+- [ ] Working with Funtions
+- [ ] Handle Erros
+- [ ] Data Structures
+- [ ] Built-in Unit Testing
+- [ ] Local Compile & Install
 
 # WIP
 - [-] Experiencing
